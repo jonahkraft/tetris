@@ -48,6 +48,9 @@ to your `.bashrc` or `.zshrc` file. Use `tetris` to start the game.
 
 <img src="preview.png" alt="A preview of the gameplay">
 
+I am using `FiraCode Nerd Font` in this preview. Depending on your Terminal Emulator and Terminal Font, this might look
+different.
+
 ## License
 
 Distributed under the MIT License. See LICENSE file for more information. Do whatever you want with these scripts.
